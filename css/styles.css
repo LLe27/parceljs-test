@@ -1,4 +1,16 @@
+/*
+Main CSS file
+*/
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Unicase');
+
 body {
-    background: orange;
-    height: 100vw;
+    font-family: 'Cormorant Unicase', serif;
+}
+
+.app__container {
+    padding-top: 59px;
+}
+
+.app__heading {
+    margin-bottom: 1rem;
 }

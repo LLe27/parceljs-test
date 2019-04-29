@@ -1,7 +1,7 @@
 {
   "name": "parceljs-test",
   "version": "1.0.0",
-  "description": "A skeleton repository using the lightweight parceljs bundler",
+  "description": "Testing parceljs bundler using dependencies such as jquery, bootstrap etc",
   "main": "index.js",
   "scripts": {
     "build": "parcel watch index.html",
@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/LLe27/parceljs-test#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.0",
+    "jquery-ui-dist": "^1.12.1",
     "popper.js": "^1.15.0"
   },
   "devDependencies": {

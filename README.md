@@ -1,2 +1,2 @@
 # parceljs-test
-A skeleton repository using the lightweight parceljs bundler
+Testing parceljs bundler using dependencies such as jquery, bootstrap and font-awesome
